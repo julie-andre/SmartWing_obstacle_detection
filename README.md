@@ -1,2 +1,3 @@
 # SmartWing_obstacle_detection
-Algorithms for the LeoFly's SmartWing autonomous wing project. 
+Algorithms I developed for the SmartWing autonomous wing project.
+These algorithms implemented in Python and C++ can detect obstacle when the correct parameters of the cameras are provided.
